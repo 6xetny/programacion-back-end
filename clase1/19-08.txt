@@ -1,0 +1,9 @@
+Introduccion:
+El lado del servidor es la parte de una aplicacion
+web que se ejecuta en el servidor, procesando solicitudes
+y generando respuestas.
+
+Objetivo:
+- Manejar la logica de negocio
+- Acceder a bases de datos
+- Enviar datos al cliente
