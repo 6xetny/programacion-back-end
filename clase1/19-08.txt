@@ -7,3 +7,25 @@ Objetivo:
 - Manejar la logica de negocio
 - Acceder a bases de datos
 - Enviar datos al cliente
+
+-- Flujo Cliente-Servidor:
+
+1. Cliente: Envia una peticion (HTTP/HTTPS)
+
+2. Servidor: Procesa la peticion, consulta datos
+    y ejecuta logica.
+
+3. Respuesta: Devuelve el HTML, JSON, XML, etc.
+
+-- Lenguajes y Entornos Ppulares:
+
+* Node.js (JavaScript) + Express --> Alto rendiminto,
+  ideal para APIs.
+
+* PHP + Laravel --> Desarrollo rápido.
+
+* Python + Django --> Productividad y seguridad.
+
+* Java + Spring boot --> Escalabilidad.
+
+* .NET C# + ASP.NET Core --> Ecosistema Microsoft.
